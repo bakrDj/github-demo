@@ -1,0 +1,23 @@
+[33mcommit e156bfd4c67aee4633abd6598ed95597ccf5adb6[m[33m ([m[1;36mHEAD -> [m[1;32mcustome-github-clone[m[33m)[m
+Author: Boubaker djedidi <abubakr.dje@gmail.com>
+Date:   Fri Jan 29 11:14:43 2021 +0100
+
+    change website main font to Arial
+
+[33mcommit b41362be565d5766fb0a9ed162a9c5626b59d045[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Boubaker djedidi <abubakr.dje@gmail.com>
+Date:   Fri Jan 29 10:57:32 2021 +0100
+
+    comment main script tag, not working inside vscode preview
+
+[33mcommit 89b98e2081e07bf09226180c0635a7a9c555d3fc[m
+Author: Boubaker djedidi <abubakr.dje@gmail.com>
+Date:   Fri Jan 29 10:55:30 2021 +0100
+
+    change background color to darksalmon
+
+[33mcommit b29d222bf82cab31dc2122771b3feff5612cf0aa[m
+Author: Boubaker djedidi <abubakr.dje@gmail.com>
+Date:   Fri Jan 29 10:31:12 2021 +0100
+
+    first commit
